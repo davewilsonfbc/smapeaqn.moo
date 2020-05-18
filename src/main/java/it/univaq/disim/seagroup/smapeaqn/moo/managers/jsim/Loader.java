@@ -47,16 +47,6 @@ import org.xml.sax.SAXNotSupportedException;
  * from that description.
  *
  * For each node, all parameters and sub-parameters are loaded using the suitable constructors.
- *
- * @author Federico Granata, Stefano Omini, Bertoli Marco
- * @version 26-ago-2003 14.23.27
- *       
- * Modified by Ashanka (May 2010): 
- * Patch: Multi-Sink Perf. Index 
- * Description: Added new Performance index for capturing 
- * 				1. global response time (ResponseTime per Sink)
- *              2. global throughput (Throughput per Sink)
- *              each sink per class.
  */
 public class Loader {
 

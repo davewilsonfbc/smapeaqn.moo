@@ -6,8 +6,6 @@ import org.uma.jmetal.util.JMetalException;
 import org.uma.jmetal.util.fileoutput.FileOutputContext;
 import org.uma.jmetal.util.fileoutput.impl.DefaultFileOutputContext;
 
-import it.univaq.disim.seagroup.smapeaqn.moo.csp.Csp;
-import it.univaq.disim.seagroup.smapeaqn.moo.csp.CspSet;
 import it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner;
 
 import java.io.BufferedWriter;

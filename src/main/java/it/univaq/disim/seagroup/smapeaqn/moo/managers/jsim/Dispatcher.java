@@ -21,11 +21,6 @@ import jmt.engine.simEngine.Simulation;
  * SIMmodeldefinition.xsd schema.
  * The simulation results, at the end, are converted and
  * are inserted in the original file.
- *
- * @author Stefano Omini
- * Modified by Bertoli Marco
- *
- * Modified by Francesco D'Aquino
  */
 public class Dispatcher {
 
