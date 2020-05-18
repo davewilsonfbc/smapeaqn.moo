@@ -1,0 +1,7 @@
+2020-02-16 04:29:22.611 INFORMAZIONI: Loggers configured with null [org.uma.jmetal.util.JMetalLogger configureLoggers]
+2020-02-16 04:29:22.651 INFORMAZIONI: Total execution time: 282750870ms [it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner runCspSimpleNSGAII]
+2020-02-16 04:29:22.677 INFORMAZIONI: Random seed: 1581541011683 [it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner printCspOutput]
+2020-02-16 04:29:22.677 INFORMAZIONI: Parameters values have been written to file PARAMETERS.tsv [it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner printCspOutput]
+2020-02-16 04:29:22.678 INFORMAZIONI: Objectives values have been written to file FITNESS.tsv [it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner printCspOutput]
+2020-02-16 04:29:22.678 INFORMAZIONI: Variables values have been written to file VARIABLES.tsv [it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner printCspOutput]
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=512M; support was removed in 8.0

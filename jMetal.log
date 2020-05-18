@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-04-25T16:07:02</date>
+  <millis>1587823622764</millis>
+  <sequence>0</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.JMetalLogger</class>
+  <method>configureLoggers</method>
+  <thread>1</thread>
+  <message>Loggers configured with null</message>
+</record>
+<record>
+  <date>2020-04-25T16:07:02</date>
+  <millis>1587823622780</millis>
+  <sequence>1</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner</class>
+  <method>runCspSimpleNSGAII</method>
+  <thread>1</thread>
+  <message>Total execution time: 109259024ms</message>
+</record>
+<record>
+  <date>2020-04-25T16:07:02</date>
+  <millis>1587823622794</millis>
+  <sequence>2</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner</class>
+  <method>printCspOutput</method>
+  <thread>1</thread>
+  <message>Random seed: 1587714363256</message>
+</record>
+<record>
+  <date>2020-04-25T16:07:02</date>
+  <millis>1587823622794</millis>
+  <sequence>3</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner</class>
+  <method>printCspOutput</method>
+  <thread>1</thread>
+  <message>Parameters values have been written to file PARAMETERS.tsv</message>
+</record>
+<record>
+  <date>2020-04-25T16:07:02</date>
+  <millis>1587823622795</millis>
+  <sequence>4</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner</class>
+  <method>printCspOutput</method>
+  <thread>1</thread>
+  <message>Objectives values have been written to file FITNESS.tsv</message>
+</record>
+<record>
+  <date>2020-04-25T16:07:02</date>
+  <millis>1587823622795</millis>
+  <sequence>5</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner</class>
+  <method>printCspOutput</method>
+  <thread>1</thread>
+  <message>Variables values have been written to file VARIABLES.tsv</message>
+</record>
+</log>

@@ -1,0 +1,6 @@
+2020-02-01 20:33:23.697 INFORMAZIONI: Loggers configured with null [org.uma.jmetal.util.JMetalLogger configureLoggers]
+2020-02-01 20:33:23.712 INFORMAZIONI: Total execution time: 13805945ms [it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner runCspSimpleNSGAII]
+2020-02-01 20:33:23.728 INFORMAZIONI: Random seed: 1580571797749 [it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner printCspOutput]
+2020-02-01 20:33:23.729 INFORMAZIONI: Parameters values have been written to file PARAMETERS.tsv [it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner printCspOutput]
+2020-02-01 20:33:23.729 INFORMAZIONI: Objectives values have been written to file FITNESS.tsv [it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner printCspOutput]
+2020-02-01 20:33:23.730 INFORMAZIONI: Variables values have been written to file VARIABLES.tsv [it.univaq.disim.seagroup.smapeaqn.moo.runners.CspSimpleNSGAIIRunner printCspOutput]
