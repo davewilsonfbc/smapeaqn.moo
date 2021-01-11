@@ -1,5 +1,5 @@
 # smapeaqn.moo
-*Multi-Objective Performance Optimization for Self-Adaptive Systems modelled as SMAPEA Queuing Networks*.
+*Multi-Objective Performance Optimization of Self-Adaptive Systems modelled as SMAPEA Queuing Networks*.
 
 ## Release notes
 Current version is **0.1**.
