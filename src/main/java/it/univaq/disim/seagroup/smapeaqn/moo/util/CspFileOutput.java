@@ -21,7 +21,7 @@ public class CspFileOutput {
 	private String parFileName = "PARAMETERS";
 	private String varFileName = "VARIABLES";
 	private String funFileName = "FITNESS";
-	private String separator = "\t";
+	private String tsvSeparator = "\t";
 	private AbstractAlgorithmRunner runner;
 	private List<? extends Solution<?>> solutionList;
 	private List<Boolean> isObjectiveToBeMinimized ;
@@ -31,9 +31,9 @@ public class CspFileOutput {
 		parFileContext = new DefaultFileOutputContext(parFileName);
 	    varFileContext = new DefaultFileOutputContext(varFileName);
 	    funFileContext = new DefaultFileOutputContext(funFileName);
-	    parFileContext.setSeparator(separator);
-	    varFileContext.setSeparator(separator);
-	    funFileContext.setSeparator(separator);
+	    parFileContext.setSeparator(tsvSeparator);
+	    varFileContext.setSeparator(tsvSeparator);
+	    funFileContext.setSeparator(tsvSeparator);
 	    this.runner = runner;
 	    this.solutionList = solutionList;
 	    isObjectiveToBeMinimized = null ;
@@ -67,9 +67,9 @@ public class CspFileOutput {
 	  }
 
 	  public CspFileOutput setSeparator(String separator) {
-	    this.separator = separator;
-	    varFileContext.setSeparator(this.separator);
-	    funFileContext.setSeparator(this.separator);
+	    this.tsvSeparator = separator;
+	    varFileContext.setSeparator(this.tsvSeparator);
+	    funFileContext.setSeparator(this.tsvSeparator);
 
 	    return this;
 	  }

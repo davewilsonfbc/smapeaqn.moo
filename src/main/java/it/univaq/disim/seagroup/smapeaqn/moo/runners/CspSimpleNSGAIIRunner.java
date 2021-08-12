@@ -16,6 +16,7 @@ import org.uma.jmetal.util.evaluator.SolutionListEvaluator;
 import org.uma.jmetal.util.fileoutput.impl.DefaultFileOutputContext;
 import org.uma.jmetal.util.pseudorandom.JMetalRandom;
 
+import java.awt.Toolkit;
 import java.io.File;
 import java.io.IOException;
 import java.sql.Timestamp;
@@ -289,6 +290,7 @@ public class CspSimpleNSGAIIRunner extends AbstractAlgorithmRunner {
 	    ////
 	    
 	    runner.getProblem().deleteModelFiles(new File(jsimgFilePath + "run_" + CspSimpleNSGAIIRunner.timestamp));
+	    Toolkit.getDefaultToolkit().beep();
 	    
 	}
 	

@@ -36,8 +36,8 @@ public class CspProblem extends AbstractCspProblem {
 	  setJsimgFileName(jsimgFileName);
 	  setNumberOfModes(numberOfModes);
 	  setNumberOfOutgoings(numberOfOutgoings);
-      setNumberOfVariables(4 * numberOfModes);
-      setNumberOfObjectives(2);
+      setNumberOfVariables(2 + (2 * numberOfModes));
+      setNumberOfObjectives(numberOfModes);
     }
 
     @Override
@@ -125,10 +125,10 @@ public class CspProblem extends AbstractCspProblem {
 	  }
     
     public void initNumberOfVariables() {
-    	setNumberOfVariables(4 * this.getNumberOfModes());
+    	setNumberOfVariables(2 + (2 * this.getNumberOfModes()));
     }
     
     public void initNumberOfObjectives() {
-    	setNumberOfObjectives(2);
+    	setNumberOfObjectives(getNumberOfModes());
     }
 }

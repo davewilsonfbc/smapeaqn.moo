@@ -55,7 +55,8 @@ public class Dispatcher {
 	private double progress;
 	private Vector<Integer> measuresToAbort = new Vector<Integer>(); // Vector with measures to abort at refresh
 
-	private long maxDuration = 60000;				//Duration of the simulation (ms) [-1 means infinite]
+	////////
+	private long maxDuration = -1;				//Duration of the simulation (ms) [-1 means infinite], 60000 means 60 seconds
 
 	private Simulation sim;
 	boolean isTerminalSimulation;
