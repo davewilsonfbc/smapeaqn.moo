@@ -1,0 +1,616 @@
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 628808266 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.490397801373019 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.860270494120533 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.136813524869547 Success = true 
+WARN  [main]- 26069.821822275433 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 26069.821822275433 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 54.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1236601032 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.23840711797477 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.0384952719460006 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.833911302898555 Success = true 
+WARN  [main]- 25852.20579403478 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 25852.20579403478 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 52.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1465063497 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.678205273416753 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.52686319182855 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.483528818757778 Success = true 
+WARN  [main]- 19496.75 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 19496.75 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 30.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 686428351 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 434.04125318796764 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 7005.602809389719 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 5699.354981879817 Success = true 
+WARN  [main]- 492592.13368370023 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 492592.13368370023 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 15409.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1640362092 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.7094857479495227 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.03747703948216 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.403908996642437 Success = true 
+WARN  [main]- 14355.841585348799 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 14355.841585348799 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 19.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 949291037 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.880022990940541 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.32097058429972 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.54826074130449 Success = true 
+WARN  [main]- 23143.83797776194 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 23143.83797776194 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 49.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1866143206 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.791000894206763 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.941526004559764 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.5214851172466552 Success = true 
+WARN  [main]- 12997.0717100653 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 12997.0717100653 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 16.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1637237933 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.3446763530373946 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.683271603876286 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.529160466826315 Success = true 
+WARN  [main]- 33354.52615770966 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 33354.52615770966 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 90.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 450430671 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.285895167908944 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.852802537899496 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.108233796109171 Success = true 
+WARN  [main]- 46071.26034285451 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 46071.26034285451 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 175.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 943469052 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.164896215481984 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.324697879997292 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.744239447173027 Success = true 
+WARN  [main]- 36155.63920746325 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 36155.63920746325 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 108.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 683092349 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.02272769814473 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.562773908775635 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 9.617261985421813 Success = true 
+WARN  [main]- 27786.465612879914 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 27786.465612879914 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 65.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 332595084 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.370795102227266 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.485856924900842 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.7232468711509465 Success = true 
+WARN  [main]- 23725.783813830705 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 23725.783813830705 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 46.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 241222868 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.172203541948682 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.146723005791406 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.4116757533990514 Success = true 
+WARN  [main]- 29227.75020975966 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 29227.75020975966 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 69.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 767319018 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.194472186759607 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.485573127987242 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.9305947158203915 Success = true 
+WARN  [main]- 83415.81028914331 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 83415.81028914331 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 612.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 2005140141 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.7482047733606594 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.483666307115274 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.902103205530969 Success = true 
+WARN  [main]- 36061.09602828501 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 36061.09602828501 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 109.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 816098818 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.04160236752644 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.7980729026009663 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 6.731308886402856 Success = true 
+WARN  [main]- 30006.03069116233 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 30006.03069116233 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 70.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1607639333 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.489279401306593 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.2733971960351655 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.794552502531266 Success = true 
+WARN  [main]- 23602.75049591876 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 23602.75049591876 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 54.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 115564923 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.661630071598686 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.881648732895695 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.881176005039937 Success = true 
+WARN  [main]- 36025.01012416216 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 36025.01012416216 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 116.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1715880315 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.605735497688843 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.468667525242712 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.99492380794075 Success = true 
+WARN  [main]- 14648.500456765143 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 14648.500456765143 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 20.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1653785570 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.50234611408691 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.191979484592427 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.660200178411258 Success = true 
+WARN  [main]- 17316.27369314197 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 17316.27369314197 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 26.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1737896031 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.282044027553209 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.844267972920443 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.8090995119894506 Success = true 
+WARN  [main]- 34270.25256207484 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 34270.25256207484 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 105.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 649793963 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.526587714775927 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.5351440203263698 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.107016498549102 Success = true 
+WARN  [main]- 25267.26218371328 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 25267.26218371328 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 53.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1120809974 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.127419363297117 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.4034410513093505 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.978973936094123 Success = true 
+WARN  [main]- 42571.5011804264 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 42571.5011804264 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 169.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1900133423 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.048846167725134 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.113246468445251 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.444330433465028 Success = true 
+WARN  [main]- 14288.485980875224 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 14288.485980875224 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 17.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 2095255281 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.461953796350593 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.8388580151367 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 4.050019883046432 Success = true 
+WARN  [main]- 22638.734067056732 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 22638.734067056732 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 40.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 491797803 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.25885884357573 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.539941878537229 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.581920512074049 Success = true 
+WARN  [main]- 22071.75820666312 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 22071.75820666312 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 40.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1415576661 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.587685458488519 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.082838527093961 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.919600559612245 Success = true 
+WARN  [main]- 17678.57907691544 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 17678.57907691544 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 25.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 82665262 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.909240886015091 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.8565231343978073 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.3511506053273905 Success = true 
+WARN  [main]- 29808.519431275567 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 29808.519431275567 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 79.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1654922057 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.805615947685635 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.029343926476322 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.798070750785284 Success = true 
+WARN  [main]- 16508.27137830356 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 16508.27137830356 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 23.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 839119292 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.260495947204432 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.5004553240916847 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.288442940407855 Success = true 
+WARN  [main]- 23600.774645171117 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 23600.774645171117 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 43.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1314196046 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.3237610524307515 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.308703527202026 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.783404544112717 Success = true 
+WARN  [main]- 16884.501171141143 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 16884.501171141143 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 24.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 699297435 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.9278061412689995 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.8411925404562695 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.48100369415871 Success = true 
+WARN  [main]- 32410.587356614487 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 32410.587356614487 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 89.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1930660051 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.081649629782428 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.9386035529302243 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.264803118329593 Success = true 
+WARN  [main]- 19083.5 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 19083.5 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 29.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 477367987 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.495502717071379 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.05712646740392 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.297512762064615 Success = true 
+WARN  [main]- 36740.03440288496 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 36740.03440288496 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 115.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 119165368 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.6965322142209525 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.775296791990551 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.900769565551691 Success = true 
+WARN  [main]- 16100.769864434702 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 16100.769864434702 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 22.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1936645395 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.6818702527454517 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.680880359137225 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.902247246325955 Success = true 
+WARN  [main]- 11782.001426794846 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 11782.001426794846 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 15.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 883675589 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.671855389522173 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.8267755742049885 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.239737720602509 Success = true 
+WARN  [main]- 32228.982052133044 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 32228.982052133044 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 100.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1662246189 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.57628906956435 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.408638182933728 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.90528171195673 Success = true 
+WARN  [main]- 20150.5 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 20150.5 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 32.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 638829234 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.924923842019844 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.240934921819369 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.9471511563259383 Success = true 
+WARN  [main]- 23383.155780506215 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 23383.155780506215 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 44.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 718040962 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.689936912248125 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.169634494242683 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.31435260620924 Success = true 
+WARN  [main]- 71993.16001806714 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 71993.16001806714 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 459.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 41721801 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.2725360609195087 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.967129139081294 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.951540365114259 Success = true 
+WARN  [main]- 23907.231603230695 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 23907.231603230695 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 51.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1854581725 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.389307945726183 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.3169997791605543 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.908412466710125 Success = true 
+WARN  [main]- 35709.750406196 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 35709.750406196 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 100.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1615541362 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.632489255056579 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.2378796923459574 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.407485412485327 Success = true 
+WARN  [main]- 39763.256604013164 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 39763.256604013164 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 148.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1989169541 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.647574188952829 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.4539651623009426 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.985341398444129 Success = true 
+WARN  [main]- 4924.277441955596 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 4924.277441955596 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 3.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1968661874 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.866210487223374 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.8992820329216342 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.434229956924678 Success = true 
+WARN  [main]- 19445.750107670283 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 19445.750107670283 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 30.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 2120473901 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.696096216332019 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.6282326768571673 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.731905544599963 Success = true 
+WARN  [main]- 15165.5 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 15165.5 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 19.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 476566999 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 9.127006849616793 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.977792382948166 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.535062467051058 Success = true 
+WARN  [main]- 11214.008568587078 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 11214.008568587078 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 11.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 783611915 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.077155170406338 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 4.270080208348895 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.066072489733378 Success = true 
+WARN  [main]- 21800.532984048434 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 21800.532984048434 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 37.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1813816430 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.985605070125645 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.62923557747355 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.632912624001133 Success = true 
+WARN  [main]- 27816.930113837534 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 27816.930113837534 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 65.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 2125638488 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.327261188549695 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 6.282375562263374 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 2.5515947005807806 Success = true 
+WARN  [main]- 18493.865369799463 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 18493.865369799463 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 26.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1445044752 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.5566472077362405 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 6.1694593313658075 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.9552450415169567 Success = true 
+WARN  [main]- 18463.50993185187 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 18463.50993185187 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 32.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 2092478330 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.765147291474 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 8.149596655404673 Success = true 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.958263767698894 Success = true 
+WARN  [main]- 28324.00027563917 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 28324.00027563917 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 76.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 390211451 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.253555705744567 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.750375554081037 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.948684489992831 Success = true 
+WARN  [main]- 19061.500836357023 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 19061.500836357023 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 35.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 1914427829 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.3895739460219785 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 5.165977171681267 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.731158074681758 Success = true 
+WARN  [main]- 32517.361115523778 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 32517.361115523778 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 94.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 539290261 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.918724260373853 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.5491900051559435 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 7.406554991186767 Success = true 
+WARN  [main]- 32338.337895886572 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 32338.337895886572 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 96.0 seconds 
+DEBUG [main]- Sim model definition path: C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg 
+DEBUG [main]- Simulation has been initialized 
+DEBUG [main]- JSIM correctly initialized with simulation seed = 17380905 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:2 not processed. 
+WARN  [main]- 0.0 - Message 2 from Done:0 to Done:3 not processed. 
+DEBUG [main]- Measure Done_NormalActuate_Response Time per Sink finished. Mean value: 3.4997139635115984 Success = true 
+DEBUG [main]- Measure Done_AlertActuate_Response Time per Sink finished. Mean value: 4.682040000664445 Success = true 
+DEBUG [main]- Measure Done_CriticalActuate_Response Time per Sink finished. Mean value: 9.026909154517522 Success = true 
+WARN  [main]- 30271.774505917896 - Message 1 from Done:0 to Done:2 not processed. 
+WARN  [main]- 30271.774505917896 - Message 1 from Done:0 to Done:3 not processed. 
+INFO  [main]- Model C:\eclipse.smapea\eclipse\workspace\smapeaqn.moo-master\.\enhanced-sas\further_simulations\with_duplicates\SMAPEA-QN-emergency-handling.jsimg solved by JSIM in 79.0 seconds 

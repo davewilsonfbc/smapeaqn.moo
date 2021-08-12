@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<solutions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" logDecimalSeparator="," logDelimiter=";" logPath="C:\Users\davew\JMT" modelDefinitionPath="." modelName="SMAPEA-QN-emergency-handling.jsimg" solutionMethod="simulation" xsi:noNamespaceSchemaLocation="SIMmodeloutput.xsd">
+    <measure alfa="0.1" analyzedSamples="102400" class="NormalActuate" discardedSamples="0" lowerLimit="3.819767488177316" maxSamples="500000" meanValue="3.9962801903940957" measureType="Response Time per Sink" nodeType="station" precision="0.05" station="Done" successful="true" upperLimit="4.172792892610875"/>
+    <measure alfa="0.1" analyzedSamples="51200" class="AlertActuate" discardedSamples="10" lowerLimit="8.251983889399058" maxSamples="500000" meanValue="8.5367057207559" measureType="Response Time per Sink" nodeType="station" precision="0.05" station="Done" successful="true" upperLimit="8.821427552112743"/>
+    <measure alfa="0.1" analyzedSamples="4160" class="CriticalActuate" discardedSamples="950" lowerLimit="10.308888067675456" maxSamples="500000" meanValue="10.705203359922677" measureType="Response Time per Sink" nodeType="station" precision="0.05" station="Done" successful="true" upperLimit="11.101518652169899"/>
+</solutions>
